@@ -1,7 +1,7 @@
 # omarchy-yerba-mate
 
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-yerba-mate/main/images/logo.jpg" alt="Mate" />
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-yerba-mate/master/images/logo.jpg" alt="Mate" />
 </p>
 
 Dark theme for [Omarchy](https://omarchy.org) — Yerba Mate palette.
@@ -11,7 +11,7 @@ Deep olive-black background with earthy ochre, metal blue, and mate-green accent
 ## Palette
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mateCreations/omarchy-yerba-mate/main/images/palette-yerba-mate.png" alt="Yerba Mate palette" />
+  <img src="https://raw.githubusercontent.com/mateCreations/omarchy-yerba-mate/master/images/palette-yerba-mate.png" alt="Yerba Mate palette" />
 </p>
 
 | Role        | Color     |

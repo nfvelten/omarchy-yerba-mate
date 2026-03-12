@@ -1,7 +1,7 @@
 # omarchy-yerba-mate
 
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-yerba-mate/master/images/logo.jpg" alt="Mate" />
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-yerba-mate/master/images/logo.png" alt="Mate" />
 </p>
 
 Dark theme for [Omarchy](https://omarchy.org) — Yerba Mate palette.
